@@ -1,3 +1,7 @@
+# WARNING!
+
+This repository isn't ready at all. It has been made public to already prepare the wikis. This will allow an accurate documentation that will be ready once the first version will release.
+
 # FESWEP
 A greatly cleaned and optimized fork of FE gun kit that can be scripted like Garry's Mod SWEPs.
 
